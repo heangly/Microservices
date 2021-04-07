@@ -7,3 +7,4 @@ spec:
     - name: posts
       image: heanglypa/posts:0.0.1
       imagePullPolicy: Never
+  restartPolicy: Never
