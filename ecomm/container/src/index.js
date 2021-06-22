@@ -1,1 +1,1 @@
-console.log('Containers')
+import('./bootstrap')
